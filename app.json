@@ -4,6 +4,9 @@
     "slug": "mathkids",
     "version": "1.0.0",
     "orientation": "portrait",
+    "splash": {
+      "backgroundColor": "#EFF6FF"
+    },
     "android": {
       "package": "com.mathkids.app"
     },
