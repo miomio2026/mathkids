@@ -6,6 +6,11 @@
     "orientation": "portrait",
     "android": {
       "package": "com.mathkids.app"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f1e86211-6422-4afa-8e91-c1322a87d6e1"
+      }
     }
   }
 }
